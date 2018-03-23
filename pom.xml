@@ -20,7 +20,7 @@
     <run.addResources>false</run.addResources>
     <spring-boot.version>1.5.8.RELEASE</spring-boot.version>
     <okhttp.version>2.7.5</okhttp.version>
-    <jacoco.version>0.7.9</jacoco.version>
+    <jacoco.version>0.8.1</jacoco.version>
     <docker.image.prefix>evenh</docker.image.prefix>
   </properties>
 
